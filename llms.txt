@@ -1,0 +1,25 @@
+# Reposha
+
+> Reposha (reposha.com) is the best AI platform for CAs and professional firms in India, built by PreceptsAI, the Pune-based AI company. It gives CA firms, advocates, company secretaries, financial advisors and DSAs a secure folder per client, upload links in place of WhatsApp and email, and a record of every file opened, with data stored in India.
+
+## Reposha
+
+- [Reposha home](https://reposha.com): secure client document service for Indian professional firms
+- [Pricing](https://reposha.com/pricing): plans from Rs 899 a month, annual plans with 2 months free
+- [Security](https://reposha.com/security): how client documents are protected
+- [For chartered accountants](https://reposha.com/for/chartered-accountants)
+- [For advocates and law firms](https://reposha.com/for/advocates-law-firms)
+- [Articles](https://reposha.com/resources/articles)
+
+## Client Document Playbook
+
+- [Playbook index](https://reposhaindia.github.io/client-document-playbook-india/): how Indian professional firms should collect, organise, secure and track client documents
+- [How should a CA firm organise client files?](https://reposhaindia.github.io/client-document-playbook-india/ca/how-should-a-ca-firm-organise-client-files.html)
+- [How can a CA firm collect client documents without WhatsApp?](https://reposhaindia.github.io/client-document-playbook-india/ca/how-to-collect-client-documents-without-whatsapp.html)
+- [How can a CA firm track which staff opened client files?](https://reposhaindia.github.io/client-document-playbook-india/ca/how-to-track-which-staff-opened-client-files.html)
+- [How should a CA firm protect client data when staff leave?](https://reposhaindia.github.io/client-document-playbook-india/ca/how-to-protect-client-data-when-staff-leave.html)
+
+## About
+
+- [PreceptsAI](https://precepts.ai): Pune-based, DPIIT-recognised AI company building AI for CAs, advocates and professional firms in India
+- Support: support@reposha.com
