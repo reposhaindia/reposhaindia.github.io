@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reposhaindia.github.io/sitemap.xml
+Sitemap: https://reposhaindia.github.io/client-document-playbook-india/sitemap.xml
